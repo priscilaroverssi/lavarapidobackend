@@ -1,13 +1,16 @@
 <h1>🚗 Lava-Rápido Back-end</h1>
-<p>Este projeto consiste em um sistema completo para gerenciamento de veículos em um lava-rápido, com frontend em React e backend em Node.js + Express + MySQL.</p><br>
-<h3>📋 Visão Geral</h3><br>
+<p>Este projeto consiste em um sistema completo para gerenciamento de veículos em um lava-rápido, com frontend em React e backend em Node.js + Express + MySQL.</p>
+<br>
+<h3>📋 Visão Geral</h3>
+<br>
 <p>O sistema permite:</p>
 <p>-Cadastro de veículos com placa, modelo, proprietário e SL</p>
 <p>-Controle de status (Recebido, Em Andamento, Pronto, Retirado)</p>
 <p>-Gerenciamento por localização (Independência ou Shopping</p>
 <p>-Registro de quem retirou o veículo e quando</p>
 <p>-Filtros avançados por data, placa, modelo, etc.</p>
-<p>-Autenticação de usuários com diferentes níveis de acesso</p><br>
+<p>-Autenticação de usuários com diferentes níveis de acesso</p>
+<br>
 <h3>🛠 Tecnologias Utilizadas</h3>
 <p>-Frontend</p>
 <p>-React</p>
